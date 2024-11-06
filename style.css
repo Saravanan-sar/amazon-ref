@@ -5,6 +5,7 @@
 
 body {
     font-family: "Poppins", serif;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -45,7 +46,7 @@ body {
     left: 0;
     padding: 20px;
     color: white;
-    transform: translateX(-100%);
+    transform: translateX(-100vw);
     transition: transform 2s ease;
 }
 .side-navbar.show{
