@@ -260,7 +260,7 @@ body {
 }
 /*media qureys*/
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:500px) {
     .navbar-menu-toggle {
         display: block;
     }
